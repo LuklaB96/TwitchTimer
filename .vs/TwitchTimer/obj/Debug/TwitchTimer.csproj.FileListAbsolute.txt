@@ -1,0 +1,12 @@
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.csproj.AssemblyReference.cache
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.KeyDetectForm.resources
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.Properties.Resources.resources
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.csproj.GenerateResource.cache
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\bin\Debug\TwitchTimer.exe.config
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\bin\Debug\TwitchTimer.exe
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\bin\Debug\TwitchTimer.pdb
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.exe
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.pdb
+C:\Users\Łukasz\source\repos\TwitchTimer\TwitchTimer\obj\Debug\TwitchTimer.MainWindow.resources
